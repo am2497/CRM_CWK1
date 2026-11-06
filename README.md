@@ -1,1 +1,1 @@
-# CRM_CWK1
+# CRM & CM with Business Intelligence Individual Coursework Case Study: Market Analysis and Stock Segmentation Using RFM
