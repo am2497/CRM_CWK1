@@ -1,0 +1,9 @@
+Check,Rule,Rows flagged,Tickers affected,Action
+Duplicate dates,Same ticker and date appears more than once,0,0,Passed
+Missing values,NaN Close / Adj Close / Volume inside active window,0,0,Passed
+Non-positive prices,Close or Adj Close ≤ 0,0,0,Passed
+Negative volume,Volume < 0,0,0,Passed
+Zero volume,Volume = 0 on a trading day,451,2,Review (halt or data error)
+Adj Close > Close,Adjusted price above close,0,0,Passed
+Stock splits,Stock Splits > 0,61,53,Expected – Yahoo Close/Volume are split-adjusted
+Large daily moves,|daily return| > 40% not on a split date,11,7,Review against news

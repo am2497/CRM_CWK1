@@ -1,0 +1,11 @@
+Stage,Rule,Result
+Acquisition,Ticker returned no Yahoo data for 2021–2024,"5 excluded: FDXF, HONA, Q, SNDK, VYLR"
+Daily data,Duplicate dates / missing values / Close or Adj Close ≤ 0 / Volume < 0,0 / 0 / 0 / 0 rows
+Daily data,Zero-volume pre-listing proxy history,"Trimmed to NYSE listing: FERG, SW"
+Corporate actions,"Splits and spin-offs adjusted in Close, Adj Close and Volume",61 events; in-window splits volume ratio vs market 0.89–1.29
+Weekly returns,"Friday weeks, last available price, no filling, incomplete weeks dropped",207 weeks; dropped 2025-01-03
+Alignment,Share and ^GSPC returns on identical week labels,0 unmatched; 0 internal gaps
+History (beta),≥ 52 aligned weekly returns,4 excluded
+History (RFM),≥ 80 sessions (20 baseline + 60 window),min = 313 sessions
+Event rule,Volume > 2 × mean of preceding 20 sessions (current day excluded),"Verified on 1,000 rows"
+No-event handling,"No event → Recency missing (not 0), excluded from RFM clustering",0 shares; tested
