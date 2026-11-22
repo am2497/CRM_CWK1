@@ -1,0 +1,16 @@
+Ticker,Company,Sector,Added to S&P 500,First price date,Trading days,Status,Reason
+FDXF,FedEx Freight,Industrials,2026-06-01,,,Excluded,No Yahoo price data in 2021–2024 (listed/spun off after study period)
+HONA,Honeywell Aerospace,Industrials,2026-06-29,,,Excluded,No Yahoo price data in 2021–2024 (listed/spun off after study period)
+Q,Qnity Electronics,Information Technology,2025-11-03,,,Excluded,No Yahoo price data in 2021–2024 (listed/spun off after study period)
+SNDK,Sandisk,Information Technology,2025-11-28,,,Excluded,No Yahoo price data in 2021–2024 (listed/spun off after study period)
+VYLR,Vylor,Consumer Staples,2026-10-01,,,Excluded,No Yahoo price data in 2021–2024 (listed/spun off after study period)
+APP,AppLovin,Communication Services,2025-09-22,2021-04-15,935,Retained – review in 1.2,Listed after study start – partial history
+COIN,Coinbase,Financials,2025-05-19,2021-04-14,936,Retained – review in 1.2,Listed after study start – partial history
+CEG,Constellation Energy,Utilities,2022-02-02,2022-01-19,742,Retained – review in 1.2,Listed after study start – partial history
+EXE,Expand Energy,Energy,2025-03-24,2021-02-10,979,Retained – review in 1.2,Listed after study start – partial history
+GEHC,GE HealthCare,Health Care,2023-01-04,2022-12-15,513,Retained – review in 1.2,Listed after study start – partial history
+GEV,GE Vernova,Industrials,2024-04-02,2024-03-27,193,Retained – review in 1.2,Listed after study start – partial history
+RDDT,Reddit,Communication Services,2026-08-18,2024-03-21,197,Retained – review in 1.2,Listed after study start – partial history
+HOOD,Robinhood Markets,Financials,2025-09-22,2021-07-29,862,Retained – review in 1.2,Listed after study start – partial history
+SOLV,Solventum,Health Care,2024-04-01,2024-03-26,194,Retained – review in 1.2,Listed after study start – partial history
+VLTO,Veralto,Industrials,2023-10-02,2023-10-04,313,Retained – review in 1.2,Listed after study start – partial history

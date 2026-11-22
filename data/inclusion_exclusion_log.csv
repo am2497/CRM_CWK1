@@ -1,0 +1,504 @@
+Ticker,Status,Stage,Reason,Security,GICS Sector
+MMM,Included,—,Passed all rules,3M,Industrials
+AOS,Included,—,Passed all rules,A. O. Smith,Industrials
+ABT,Included,—,Passed all rules,Abbott Laboratories,Health Care
+ABBV,Included,—,Passed all rules,AbbVie,Health Care
+ACN,Included,—,Passed all rules,Accenture,Information Technology
+ADBE,Included,—,Passed all rules,Adobe Inc.,Information Technology
+AMD,Included,—,Passed all rules,Advanced Micro Devices,Information Technology
+AES,Included,—,Passed all rules,AES Corporation,Utilities
+AFL,Included,—,Passed all rules,Aflac,Financials
+A,Included,—,Passed all rules,Agilent Technologies,Health Care
+APD,Included,—,Passed all rules,Air Products,Materials
+ABNB,Included,—,Passed all rules,Airbnb,Consumer Discretionary
+AKAM,Included,—,Passed all rules,Akamai Technologies,Information Technology
+ALB,Included,—,Passed all rules,Albemarle Corporation,Materials
+ARE,Included,—,Passed all rules,Alexandria Real Estate Equities,Real Estate
+ALGN,Included,—,Passed all rules,Align Technology,Health Care
+ALLE,Included,—,Passed all rules,Allegion,Industrials
+LNT,Included,—,Passed all rules,Alliant Energy,Utilities
+ALL,Included,—,Passed all rules,Allstate,Financials
+GOOGL,Included,—,Passed all rules,Alphabet Inc. (Class A),Communication Services
+GOOG,Included,—,Passed all rules,Alphabet Inc. (Class C),Communication Services
+MO,Included,—,Passed all rules,Altria,Consumer Staples
+AMZN,Included,—,Passed all rules,Amazon,Consumer Discretionary
+AMCR,Included,—,Passed all rules,Amcor,Materials
+AEE,Included,—,Passed all rules,Ameren,Utilities
+AEP,Included,—,Passed all rules,American Electric Power,Utilities
+AXP,Included,—,Passed all rules,American Express,Financials
+AIG,Included,—,Passed all rules,American International Group,Financials
+AMT,Included,—,Passed all rules,American Tower,Real Estate
+AWK,Included,—,Passed all rules,American Water Works,Utilities
+AMP,Included,—,Passed all rules,Ameriprise Financial,Financials
+AME,Included,—,Passed all rules,Ametek,Industrials
+AMGN,Included,—,Passed all rules,Amgen,Health Care
+APH,Included,—,Passed all rules,Amphenol,Information Technology
+ADI,Included,—,Passed all rules,Analog Devices,Information Technology
+AON,Included,—,Passed all rules,Aon plc,Financials
+APA,Included,—,Passed all rules,APA Corporation,Energy
+APO,Included,—,Passed all rules,Apollo Global Management,Financials
+AAPL,Included,—,Passed all rules,Apple Inc.,Information Technology
+AMAT,Included,—,Passed all rules,Applied Materials,Information Technology
+APP,Included,—,Included – partial history (listed after 2021-01-04),AppLovin,Communication Services
+APTV,Included,—,Passed all rules,Aptiv,Consumer Discretionary
+ACGL,Included,—,Passed all rules,Arch Capital Group,Financials
+ADM,Included,—,Passed all rules,Archer Daniels Midland,Consumer Staples
+ARES,Included,—,Passed all rules,Ares Management,Financials
+ANET,Included,—,Passed all rules,Arista Networks,Information Technology
+AJG,Included,—,Passed all rules,Arthur J. Gallagher & Co.,Financials
+AIZ,Included,—,Passed all rules,Assurant,Financials
+T,Included,—,Passed all rules,AT&T,Communication Services
+ATO,Included,—,Passed all rules,Atmos Energy,Utilities
+ADSK,Included,—,Passed all rules,Autodesk,Information Technology
+ADP,Included,—,Passed all rules,Automatic Data Processing,Industrials
+AZO,Included,—,Passed all rules,AutoZone,Consumer Discretionary
+AVY,Included,—,Passed all rules,Avery Dennison,Materials
+AXON,Included,—,Passed all rules,Axon Enterprise,Industrials
+BKR,Included,—,Passed all rules,Baker Hughes,Energy
+BALL,Included,—,Passed all rules,Ball Corporation,Materials
+BAC,Included,—,Passed all rules,Bank of America,Financials
+BAX,Included,—,Passed all rules,Baxter International,Health Care
+BDX,Included,—,Passed all rules,Becton Dickinson,Health Care
+BRK-B,Included,—,Passed all rules,Berkshire Hathaway,Financials
+BBY,Included,—,Passed all rules,Best Buy,Consumer Discretionary
+TECH,Included,—,Passed all rules,Bio-Techne,Health Care
+BIIB,Included,—,Passed all rules,Biogen,Health Care
+BLK,Included,—,Passed all rules,BlackRock,Financials
+BX,Included,—,Passed all rules,Blackstone Inc.,Financials
+XYZ,Included,—,Passed all rules,"Block, Inc.",Financials
+BE,Included,—,Passed all rules,Bloom Energy,Industrials
+BNY,Included,—,Passed all rules,BNY Mellon,Financials
+BA,Included,—,Passed all rules,Boeing,Industrials
+BKNG,Included,—,Passed all rules,Booking Holdings,Consumer Discretionary
+BSX,Included,—,Passed all rules,Boston Scientific,Health Care
+BMY,Included,—,Passed all rules,Bristol Myers Squibb,Health Care
+AVGO,Included,—,Passed all rules,Broadcom,Information Technology
+BR,Included,—,Passed all rules,Broadridge Financial Solutions,Industrials
+BRO,Included,—,Passed all rules,Brown & Brown,Financials
+BF-B,Included,—,Passed all rules,Brown–Forman,Consumer Staples
+BG,Included,—,Passed all rules,Bunge Global,Consumer Staples
+BXP,Included,—,Passed all rules,"BXP, Inc.",Real Estate
+CHRW,Included,—,Passed all rules,C.H. Robinson,Industrials
+CDNS,Included,—,Passed all rules,Cadence Design Systems,Information Technology
+CPT,Included,—,Passed all rules,Camden Property Trust,Real Estate
+COF,Included,—,Passed all rules,Capital One,Financials
+CAH,Included,—,Passed all rules,Cardinal Health,Health Care
+CCL,Included,—,Passed all rules,Carnival Corporation,Consumer Discretionary
+CARR,Included,—,Passed all rules,Carrier Global,Industrials
+CVNA,Included,—,Passed all rules,Carvana,Consumer Discretionary
+CASY,Included,—,Passed all rules,Casey's,Consumer Staples
+CAT,Included,—,Passed all rules,Caterpillar Inc.,Industrials
+CBOE,Included,—,Passed all rules,Cboe Global Markets,Financials
+CBRE,Included,—,Passed all rules,CBRE Group,Real Estate
+CDW,Included,—,Passed all rules,CDW Corporation,Information Technology
+COR,Included,—,Passed all rules,Cencora,Health Care
+CNC,Included,—,Passed all rules,Centene Corporation,Health Care
+CNP,Included,—,Passed all rules,CenterPoint Energy,Utilities
+CF,Included,—,Passed all rules,CF Industries,Materials
+CRL,Included,—,Passed all rules,Charles River Laboratories,Health Care
+SCHW,Included,—,Passed all rules,Charles Schwab Corporation,Financials
+CHTR,Included,—,Passed all rules,Charter Communications,Communication Services
+CVX,Included,—,Passed all rules,Chevron Corporation,Energy
+CMG,Included,—,Passed all rules,Chipotle Mexican Grill,Consumer Discretionary
+CB,Included,—,Passed all rules,Chubb Limited,Financials
+CHD,Included,—,Passed all rules,Church & Dwight,Consumer Staples
+CIEN,Included,—,Passed all rules,Ciena,Information Technology
+CI,Included,—,Passed all rules,Cigna,Health Care
+CINF,Included,—,Passed all rules,Cincinnati Financial,Financials
+CTAS,Included,—,Passed all rules,Cintas,Industrials
+CSCO,Included,—,Passed all rules,Cisco,Information Technology
+C,Included,—,Passed all rules,Citigroup,Financials
+CFG,Included,—,Passed all rules,Citizens Financial Group,Financials
+CLX,Included,—,Passed all rules,Clorox,Consumer Staples
+CME,Included,—,Passed all rules,CME Group,Financials
+CMS,Included,—,Passed all rules,CMS Energy,Utilities
+KO,Included,—,Passed all rules,Coca-Cola Company (The),Consumer Staples
+CTSH,Included,—,Passed all rules,Cognizant,Information Technology
+COHR,Included,—,Passed all rules,Coherent Corp.,Information Technology
+COIN,Included,—,Included – partial history (listed after 2021-01-04),Coinbase,Financials
+CL,Included,—,Passed all rules,Colgate-Palmolive,Consumer Staples
+CMCSA,Included,—,Passed all rules,Comcast,Communication Services
+FIX,Included,—,Passed all rules,Comfort Systems USA,Industrials
+COP,Included,—,Passed all rules,ConocoPhillips,Energy
+ED,Included,—,Passed all rules,Consolidated Edison,Utilities
+STZ,Included,—,Passed all rules,Constellation Brands,Consumer Staples
+CEG,Included,—,Included – partial history (listed after 2021-01-04),Constellation Energy,Utilities
+COO,Included,—,Passed all rules,Cooper Companies (The),Health Care
+CPRT,Included,—,Passed all rules,Copart,Industrials
+GLW,Included,—,Passed all rules,Corning Inc.,Information Technology
+CPAY,Included,—,Passed all rules,Corpay,Financials
+CSGP,Included,—,Passed all rules,CoStar Group,Real Estate
+COST,Included,—,Passed all rules,Costco,Consumer Staples
+CRH,Included,—,Passed all rules,CRH plc,Materials
+CRWD,Included,—,Passed all rules,CrowdStrike,Information Technology
+CCI,Included,—,Passed all rules,Crown Castle,Real Estate
+CSX,Included,—,Passed all rules,CSX Corporation,Industrials
+CMI,Included,—,Passed all rules,Cummins,Industrials
+CVS,Included,—,Passed all rules,CVS Health,Health Care
+DHR,Included,—,Passed all rules,Danaher Corporation,Health Care
+DRI,Included,—,Passed all rules,Darden Restaurants,Consumer Discretionary
+DDOG,Included,—,Passed all rules,Datadog,Information Technology
+DVA,Included,—,Passed all rules,DaVita,Health Care
+DECK,Included,—,Passed all rules,Deckers Brands,Consumer Discretionary
+DE,Included,—,Passed all rules,Deere & Company,Industrials
+DELL,Included,—,Passed all rules,Dell Technologies,Information Technology
+DAL,Included,—,Passed all rules,Delta Air Lines,Industrials
+DVN,Included,—,Passed all rules,Devon Energy,Energy
+DXCM,Included,—,Passed all rules,Dexcom,Health Care
+FANG,Included,—,Passed all rules,Diamondback Energy,Energy
+DLR,Included,—,Passed all rules,Digital Realty,Real Estate
+DG,Included,—,Passed all rules,Dollar General,Consumer Staples
+DLTR,Included,—,Passed all rules,Dollar Tree,Consumer Staples
+D,Included,—,Passed all rules,Dominion Energy,Utilities
+DPZ,Included,—,Passed all rules,Domino's,Consumer Discretionary
+DASH,Included,—,Passed all rules,DoorDash,Consumer Discretionary
+DOV,Included,—,Passed all rules,Dover Corporation,Industrials
+DOW,Included,—,Passed all rules,Dow Inc.,Materials
+DHI,Included,—,Passed all rules,D. R. Horton,Consumer Discretionary
+DTE,Included,—,Passed all rules,DTE Energy,Utilities
+DUK,Included,—,Passed all rules,Duke Energy,Utilities
+DD,Included,—,Passed all rules,DuPont,Industrials
+ETN,Included,—,Passed all rules,Eaton Corporation,Industrials
+EBAY,Included,—,Passed all rules,eBay Inc.,Consumer Discretionary
+ECHO,Included,—,Passed all rules,EchoStar,Communication Services
+ECL,Included,—,Passed all rules,Ecolab,Materials
+EIX,Included,—,Passed all rules,Edison International,Utilities
+EW,Included,—,Passed all rules,Edwards Lifesciences,Health Care
+ELV,Included,—,Passed all rules,Elevance Health,Health Care
+EME,Included,—,Passed all rules,Emcor,Industrials
+EMR,Included,—,Passed all rules,Emerson Electric,Industrials
+ETR,Included,—,Passed all rules,Entergy,Utilities
+EOG,Included,—,Passed all rules,EOG Resources,Energy
+EQT,Included,—,Passed all rules,EQT Corporation,Energy
+EFX,Included,—,Passed all rules,Equifax,Industrials
+EQIX,Included,—,Passed all rules,Equinix,Real Estate
+ERIE,Included,—,Passed all rules,Erie Indemnity,Financials
+ESS,Included,—,Passed all rules,Essex Property Trust,Real Estate
+EL,Included,—,Passed all rules,Estée Lauder Companies (The),Consumer Staples
+EG,Included,—,Passed all rules,Everest Group,Financials
+EVRG,Included,—,Passed all rules,Evergy,Utilities
+P,Included,—,Passed all rules,Everpure,Information Technology
+ES,Included,—,Passed all rules,Eversource Energy,Utilities
+EXC,Included,—,Passed all rules,Exelon,Utilities
+EXE,Included,—,Included – partial history (listed after 2021-01-04),Expand Energy,Energy
+EXPE,Included,—,Passed all rules,Expedia Group,Consumer Discretionary
+EXPD,Included,—,Passed all rules,Expeditors International,Industrials
+EXR,Included,—,Passed all rules,Extra Space Storage,Real Estate
+XOM,Included,—,Passed all rules,ExxonMobil,Energy
+FFIV,Included,—,Passed all rules,"F5, Inc.",Information Technology
+FDS,Included,—,Passed all rules,FactSet,Financials
+FICO,Included,—,Passed all rules,Fair Isaac,Information Technology
+FAST,Included,—,Passed all rules,Fastenal,Industrials
+FRT,Included,—,Passed all rules,Federal Realty Investment Trust,Real Estate
+FDX,Included,—,Passed all rules,FedEx,Industrials
+FDXF,Excluded,1.1,No Yahoo data 2021–2024,FedEx Freight,Industrials
+FERG,Included,—,Pre-NYSE history trimmed to 2021-03-08,Ferguson Enterprises,Industrials
+FIS,Included,—,Passed all rules,Fidelity National Information Services,Financials
+FITB,Included,—,Passed all rules,Fifth Third Bancorp,Financials
+FSLR,Included,—,Passed all rules,First Solar,Information Technology
+FE,Included,—,Passed all rules,FirstEnergy,Utilities
+FISV,Included,—,Passed all rules,Fiserv,Financials
+FLEX,Included,—,Passed all rules,Flex Ltd.,Information Technology
+F,Included,—,Passed all rules,Ford Motor Company,Consumer Discretionary
+FTNT,Included,—,Passed all rules,Fortinet,Information Technology
+FTV,Included,—,Passed all rules,Fortive,Industrials
+FOXA,Included,—,Passed all rules,Fox Corporation (Class A),Communication Services
+FOX,Included,—,Passed all rules,Fox Corporation (Class B),Communication Services
+BEN,Included,—,Passed all rules,Franklin Resources,Financials
+FCX,Included,—,Passed all rules,Freeport-McMoRan,Materials
+GRMN,Included,—,Passed all rules,Garmin,Consumer Discretionary
+IT,Included,—,Passed all rules,Gartner,Information Technology
+GE,Included,—,Passed all rules,GE Aerospace,Industrials
+GEHC,Included,—,Included – partial history (listed after 2021-01-04),GE HealthCare,Health Care
+GEV,Excluded,1.2,< 52 aligned weeks,GE Vernova,Industrials
+GEN,Included,—,Passed all rules,Gen Digital,Information Technology
+GNRC,Included,—,Passed all rules,Generac,Industrials
+GD,Included,—,Passed all rules,General Dynamics,Industrials
+GIS,Included,—,Passed all rules,General Mills,Consumer Staples
+GM,Included,—,Passed all rules,General Motors,Consumer Discretionary
+GPC,Included,—,Passed all rules,Genuine Parts Company,Consumer Discretionary
+GILD,Included,—,Passed all rules,Gilead Sciences,Health Care
+GPN,Included,—,Passed all rules,Global Payments,Financials
+GL,Included,—,Passed all rules,Globe Life,Financials
+GDDY,Included,—,Passed all rules,GoDaddy,Information Technology
+GS,Included,—,Passed all rules,Goldman Sachs,Financials
+HAL,Included,—,Passed all rules,Halliburton,Energy
+HIG,Included,—,Passed all rules,Hartford (The),Financials
+HAS,Included,—,Passed all rules,Hasbro,Consumer Discretionary
+HCA,Included,—,Passed all rules,HCA Healthcare,Health Care
+DOC,Included,—,Passed all rules,Healthpeak Properties,Real Estate
+HSIC,Included,—,Passed all rules,Henry Schein,Health Care
+HSY,Included,—,Passed all rules,Hershey Company (The),Consumer Staples
+HPE,Included,—,Passed all rules,Hewlett Packard Enterprise,Information Technology
+HLT,Included,—,Passed all rules,Hilton Worldwide,Consumer Discretionary
+HD,Included,—,Passed all rules,Home Depot (The),Consumer Discretionary
+HONA,Excluded,1.1,No Yahoo data 2021–2024,Honeywell Aerospace,Industrials
+HON,Included,—,Passed all rules,Honeywell Technologies,Industrials
+HRL,Included,—,Passed all rules,Hormel Foods,Consumer Staples
+HST,Included,—,Passed all rules,Host Hotels & Resorts,Real Estate
+HWM,Included,—,Passed all rules,Howmet Aerospace,Industrials
+HPQ,Included,—,Passed all rules,HP Inc.,Information Technology
+HUBB,Included,—,Passed all rules,Hubbell Incorporated,Industrials
+HUM,Included,—,Passed all rules,Humana,Health Care
+HBAN,Included,—,Passed all rules,Huntington Bancshares,Financials
+HII,Included,—,Passed all rules,Huntington Ingalls Industries,Industrials
+IBM,Included,—,Passed all rules,IBM,Information Technology
+IEX,Included,—,Passed all rules,IDEX Corporation,Industrials
+IDXX,Included,—,Passed all rules,Idexx Laboratories,Health Care
+ITW,Included,—,Passed all rules,Illinois Tool Works,Industrials
+ILMN,Included,—,Passed all rules,"Illumina, Inc.",Health Care
+INCY,Included,—,Passed all rules,Incyte,Health Care
+IR,Included,—,Passed all rules,Ingersoll Rand,Industrials
+PODD,Included,—,Passed all rules,Insulet Corporation,Health Care
+INTC,Included,—,Passed all rules,Intel,Information Technology
+IBKR,Included,—,Passed all rules,Interactive Brokers,Financials
+ICE,Included,—,Passed all rules,Intercontinental Exchange,Financials
+IFF,Included,—,Passed all rules,International Flavors & Fragrances,Materials
+IP,Included,—,Passed all rules,International Paper,Materials
+INTU,Included,—,Passed all rules,Intuit,Information Technology
+ISRG,Included,—,Passed all rules,Intuitive Surgical,Health Care
+IVZ,Included,—,Passed all rules,Invesco,Financials
+INVH,Included,—,Passed all rules,Invitation Homes,Real Estate
+IQV,Included,—,Passed all rules,IQVIA,Health Care
+IRM,Included,—,Passed all rules,Iron Mountain,Real Estate
+JBHT,Included,—,Passed all rules,J.B. Hunt,Industrials
+JBL,Included,—,Passed all rules,Jabil,Information Technology
+JKHY,Included,—,Passed all rules,Jack Henry & Associates,Financials
+J,Included,—,Passed all rules,Jacobs Solutions,Industrials
+JNJ,Included,—,Passed all rules,Johnson & Johnson,Health Care
+JCI,Included,—,Passed all rules,Johnson Controls,Industrials
+JPM,Included,—,Passed all rules,JPMorgan Chase,Financials
+KDP,Included,—,Passed all rules,Keurig Dr Pepper,Consumer Staples
+KEY,Included,—,Passed all rules,KeyCorp,Financials
+KEYS,Included,—,Passed all rules,Keysight Technologies,Information Technology
+KMB,Included,—,Passed all rules,Kimberly-Clark,Consumer Staples
+KIM,Included,—,Passed all rules,Kimco Realty,Real Estate
+KMI,Included,—,Passed all rules,Kinder Morgan,Energy
+KKR,Included,—,Passed all rules,KKR & Co.,Financials
+KLAC,Included,—,Passed all rules,KLA Corporation,Information Technology
+KHC,Included,—,Passed all rules,Kraft Heinz,Consumer Staples
+KR,Included,—,Passed all rules,Kroger,Consumer Staples
+LHX,Included,—,Passed all rules,L3Harris,Industrials
+LH,Included,—,Passed all rules,Labcorp,Health Care
+LRCX,Included,—,Passed all rules,Lam Research,Information Technology
+LVS,Included,—,Passed all rules,Las Vegas Sands,Consumer Discretionary
+LDOS,Included,—,Passed all rules,Leidos,Industrials
+LEN,Included,—,Passed all rules,Lennar,Consumer Discretionary
+LII,Included,—,Passed all rules,Lennox International,Industrials
+LLY,Included,—,Passed all rules,Lilly (Eli),Health Care
+LIN,Included,—,Passed all rules,Linde plc,Materials
+LYV,Included,—,Passed all rules,Live Nation Entertainment,Communication Services
+LMT,Included,—,Passed all rules,Lockheed Martin,Industrials
+L,Included,—,Passed all rules,Loews Corporation,Financials
+LOW,Included,—,Passed all rules,Lowe's,Consumer Discretionary
+LULU,Included,—,Passed all rules,Lululemon Athletica,Consumer Discretionary
+LITE,Included,—,Passed all rules,Lumentum,Information Technology
+LYB,Included,—,Passed all rules,LyondellBasell,Materials
+MTB,Included,—,Passed all rules,M&T Bank,Financials
+MPC,Included,—,Passed all rules,Marathon Petroleum,Energy
+MAR,Included,—,Passed all rules,Marriott International,Consumer Discretionary
+MRSH,Included,—,Passed all rules,Marsh McLennan,Financials
+MLM,Included,—,Passed all rules,Martin Marietta Materials,Materials
+MRVL,Included,—,Passed all rules,Marvell Technology,Information Technology
+MAS,Included,—,Passed all rules,Masco,Industrials
+MA,Included,—,Passed all rules,Mastercard,Financials
+MKC,Included,—,Passed all rules,McCormick & Company,Consumer Staples
+MCD,Included,—,Passed all rules,McDonald's,Consumer Discretionary
+MCK,Included,—,Passed all rules,McKesson,Health Care
+MDT,Included,—,Passed all rules,Medtronic,Health Care
+MRK,Included,—,Passed all rules,Merck & Co.,Health Care
+META,Included,—,Passed all rules,Meta Platforms,Communication Services
+MET,Included,—,Passed all rules,MetLife,Financials
+MTD,Included,—,Passed all rules,Mettler Toledo,Health Care
+MGM,Included,—,Passed all rules,MGM Resorts,Consumer Discretionary
+MCHP,Included,—,Passed all rules,Microchip Technology,Information Technology
+MU,Included,—,Passed all rules,Micron Technology,Information Technology
+MSFT,Included,—,Passed all rules,Microsoft,Information Technology
+MAA,Included,—,Passed all rules,Mid-America Apartment Communities,Real Estate
+MRNA,Included,—,Passed all rules,Moderna,Health Care
+MDLZ,Included,—,Passed all rules,Mondelez International,Consumer Staples
+MPWR,Included,—,Passed all rules,Monolithic Power Systems,Information Technology
+MNST,Included,—,Passed all rules,Monster Beverage,Consumer Staples
+MCO,Included,—,Passed all rules,Moody's Corporation,Financials
+MS,Included,—,Passed all rules,Morgan Stanley,Financials
+MOS,Included,—,Passed all rules,Mosaic Company (The),Materials
+MSI,Included,—,Passed all rules,Motorola Solutions,Information Technology
+MSCI,Included,—,Passed all rules,MSCI,Financials
+NDAQ,Included,—,Passed all rules,"Nasdaq, Inc.",Financials
+NTAP,Included,—,Passed all rules,NetApp,Information Technology
+NFLX,Included,—,Passed all rules,Netflix,Communication Services
+NEM,Included,—,Passed all rules,Newmont,Materials
+NWSA,Included,—,Passed all rules,News Corp (Class A),Communication Services
+NWS,Included,—,Passed all rules,News Corp (Class B),Communication Services
+NEE,Included,—,Passed all rules,NextEra Energy,Utilities
+NKE,Included,—,Passed all rules,"Nike, Inc.",Consumer Discretionary
+NI,Included,—,Passed all rules,NiSource,Utilities
+NDSN,Included,—,Passed all rules,Nordson Corporation,Industrials
+NSC,Included,—,Passed all rules,Norfolk Southern,Industrials
+NTRS,Included,—,Passed all rules,Northern Trust,Financials
+NOC,Included,—,Passed all rules,Northrop Grumman,Industrials
+NCLH,Included,—,Passed all rules,Norwegian Cruise Line Holdings,Consumer Discretionary
+NRG,Included,—,Passed all rules,NRG Energy,Utilities
+NUE,Included,—,Passed all rules,Nucor,Materials
+NVDA,Included,—,Passed all rules,Nvidia,Information Technology
+NVR,Included,—,Passed all rules,"NVR, Inc.",Consumer Discretionary
+NXPI,Included,—,Passed all rules,NXP Semiconductors,Information Technology
+ORLY,Included,—,Passed all rules,O'Reilly Automotive,Consumer Discretionary
+OXY,Included,—,Passed all rules,Occidental Petroleum,Energy
+OKTA,Included,—,Passed all rules,"Okta, Inc.",Information Technology
+ODFL,Included,—,Passed all rules,Old Dominion,Industrials
+OMC,Included,—,Passed all rules,Omnicom Group,Communication Services
+ON,Included,—,Passed all rules,ON Semiconductor,Information Technology
+OKE,Included,—,Passed all rules,Oneok,Energy
+ORCL,Included,—,Passed all rules,Oracle Corporation,Information Technology
+OTIS,Included,—,Passed all rules,Otis Worldwide,Industrials
+PCAR,Included,—,Passed all rules,Paccar,Industrials
+PKG,Included,—,Passed all rules,Packaging Corporation of America,Materials
+PLTR,Included,—,Passed all rules,Palantir Technologies,Information Technology
+PANW,Included,—,Passed all rules,Palo Alto Networks,Information Technology
+PH,Included,—,Passed all rules,Parker Hannifin,Industrials
+PAYX,Included,—,Passed all rules,Paychex,Industrials
+PYPL,Included,—,Passed all rules,PayPal,Financials
+PNR,Included,—,Passed all rules,Pentair,Industrials
+PEP,Included,—,Passed all rules,PepsiCo,Consumer Staples
+PFE,Included,—,Passed all rules,Pfizer,Health Care
+PCG,Included,—,Passed all rules,PG&E Corporation,Utilities
+PM,Included,—,Passed all rules,Philip Morris International,Consumer Staples
+PSX,Included,—,Passed all rules,Phillips 66,Energy
+PNW,Included,—,Passed all rules,Pinnacle West Capital,Utilities
+PNC,Included,—,Passed all rules,PNC Financial Services,Financials
+PPG,Included,—,Passed all rules,PPG Industries,Materials
+PPL,Included,—,Passed all rules,PPL Corporation,Utilities
+PFG,Included,—,Passed all rules,Principal Financial Group,Financials
+PG,Included,—,Passed all rules,Procter & Gamble,Consumer Staples
+PGR,Included,—,Passed all rules,Progressive Corporation,Financials
+PLD,Included,—,Passed all rules,Prologis,Real Estate
+PRU,Included,—,Passed all rules,Prudential Financial,Financials
+PTC,Included,—,Passed all rules,PTC Inc.,Information Technology
+PEG,Included,—,Passed all rules,Public Service Enterprise Group,Utilities
+PSA,Included,—,Passed all rules,Public Storage,Real Estate
+PHM,Included,—,Passed all rules,PulteGroup,Consumer Discretionary
+Q,Excluded,1.1,No Yahoo data 2021–2024,Qnity Electronics,Information Technology
+QCOM,Included,—,Passed all rules,Qualcomm,Information Technology
+PWR,Included,—,Passed all rules,Quanta Services,Industrials
+DGX,Included,—,Passed all rules,Quest Diagnostics,Health Care
+RL,Included,—,Passed all rules,Ralph Lauren Corporation,Consumer Discretionary
+RJF,Included,—,Passed all rules,Raymond James Financial,Financials
+RDDT,Excluded,1.2,< 52 aligned weeks,Reddit,Communication Services
+O,Included,—,Passed all rules,Realty Income,Real Estate
+REG,Included,—,Passed all rules,Regency Centers,Real Estate
+REGN,Included,—,Passed all rules,Regeneron Pharmaceuticals,Health Care
+RF,Included,—,Passed all rules,Regions Financial Corporation,Financials
+RSG,Included,—,Passed all rules,Republic Services,Industrials
+RMD,Included,—,Passed all rules,ResMed,Health Care
+RVTY,Included,—,Passed all rules,Revvity,Health Care
+HOOD,Included,—,Included – partial history (listed after 2021-01-04),Robinhood Markets,Financials
+ROK,Included,—,Passed all rules,Rockwell Automation,Industrials
+ROL,Included,—,Passed all rules,"Rollins, Inc.",Industrials
+ROP,Included,—,Passed all rules,Roper Technologies,Information Technology
+ROST,Included,—,Passed all rules,Ross Stores,Consumer Discretionary
+RCL,Included,—,Passed all rules,Royal Caribbean Group,Consumer Discretionary
+RTX,Included,—,Passed all rules,RTX Corporation,Industrials
+SPGI,Included,—,Passed all rules,S&P Global,Financials
+CRM,Included,—,Passed all rules,Salesforce,Information Technology
+SNDK,Excluded,1.1,No Yahoo data 2021–2024,Sandisk,Information Technology
+SBAC,Included,—,Passed all rules,SBA Communications,Real Estate
+SLB,Included,—,Passed all rules,Schlumberger,Energy
+STX,Included,—,Passed all rules,Seagate Technology,Information Technology
+SRE,Included,—,Passed all rules,Sempra,Utilities
+NOW,Included,—,Passed all rules,ServiceNow,Information Technology
+SHW,Included,—,Passed all rules,Sherwin-Williams,Materials
+SPG,Included,—,Passed all rules,Simon Property Group,Real Estate
+SKYD,Included,—,Passed all rules,Skydance,Communication Services
+SWKS,Included,—,Passed all rules,Skyworks Solutions,Information Technology
+SJM,Included,—,Passed all rules,J.M. Smucker Company (The),Consumer Staples
+SW,Excluded,1.2,Pre-NYSE history trimmed to 2024-07-08; then < 52 weeks,Smurfit Westrock,Materials
+SNA,Included,—,Passed all rules,Snap-on,Industrials
+SOLV,Excluded,1.2,< 52 aligned weeks,Solventum,Health Care
+SO,Included,—,Passed all rules,Southern Company,Utilities
+LUV,Included,—,Passed all rules,Southwest Airlines,Industrials
+SWK,Included,—,Passed all rules,Stanley Black & Decker,Industrials
+SBUX,Included,—,Passed all rules,Starbucks,Consumer Discretionary
+STT,Included,—,Passed all rules,State Street Corporation,Financials
+STLD,Included,—,Passed all rules,Steel Dynamics,Materials
+STE,Included,—,Passed all rules,Steris,Health Care
+SYK,Included,—,Passed all rules,Stryker Corporation,Health Care
+SMCI,Included,—,Passed all rules,Supermicro,Information Technology
+SYF,Included,—,Passed all rules,Synchrony Financial,Financials
+SNPS,Included,—,Passed all rules,Synopsys,Information Technology
+SYY,Included,—,Passed all rules,Sysco,Consumer Staples
+TMUS,Included,—,Passed all rules,T-Mobile US,Communication Services
+TROW,Included,—,Passed all rules,T. Rowe Price,Financials
+TTWO,Included,—,Passed all rules,Take-Two Interactive,Communication Services
+TPR,Included,—,Passed all rules,"Tapestry, Inc.",Consumer Discretionary
+TRGP,Included,—,Passed all rules,Targa Resources,Energy
+TGT,Included,—,Passed all rules,Target Corporation,Consumer Staples
+TEL,Included,—,Passed all rules,TE Connectivity,Information Technology
+TDY,Included,—,Passed all rules,Teledyne Technologies,Information Technology
+TER,Included,—,Passed all rules,Teradyne,Information Technology
+TSLA,Included,—,Passed all rules,"Tesla, Inc.",Consumer Discretionary
+TXN,Included,—,Passed all rules,Texas Instruments,Information Technology
+TPL,Included,—,Passed all rules,Texas Pacific Land Corporation,Energy
+TXT,Included,—,Passed all rules,Textron,Industrials
+TMO,Included,—,Passed all rules,Thermo Fisher Scientific,Health Care
+TJX,Included,—,Passed all rules,TJX Companies,Consumer Discretionary
+TKO,Included,—,Passed all rules,TKO Group Holdings,Communication Services
+TSCO,Included,—,Passed all rules,Tractor Supply,Consumer Discretionary
+TT,Included,—,Passed all rules,Trane Technologies,Industrials
+TDG,Included,—,Passed all rules,TransDigm Group,Industrials
+TRV,Included,—,Passed all rules,Travelers Companies (The),Financials
+TRMB,Included,—,Passed all rules,Trimble Inc.,Information Technology
+TFC,Included,—,Passed all rules,Truist Financial,Financials
+TWLO,Included,—,Passed all rules,Twilio,Information Technology
+TYL,Included,—,Passed all rules,Tyler Technologies,Information Technology
+TSN,Included,—,Passed all rules,Tyson Foods,Consumer Staples
+USB,Included,—,Passed all rules,U.S. Bancorp,Financials
+UBER,Included,—,Passed all rules,Uber,Industrials
+UDR,Included,—,Passed all rules,"UDR, Inc.",Real Estate
+ULTA,Included,—,Passed all rules,Ulta Beauty,Consumer Discretionary
+UNP,Included,—,Passed all rules,Union Pacific Corporation,Industrials
+UAL,Included,—,Passed all rules,United Airlines Holdings,Industrials
+UPS,Included,—,Passed all rules,United Parcel Service,Industrials
+URI,Included,—,Passed all rules,United Rentals,Industrials
+UNH,Included,—,Passed all rules,UnitedHealth Group,Health Care
+UHS,Included,—,Passed all rules,Universal Health Services,Health Care
+VLO,Included,—,Passed all rules,Valero Energy,Energy
+VEEV,Included,—,Passed all rules,Veeva Systems,Health Care
+VTR,Included,—,Passed all rules,Ventas,Real Estate
+VLTO,Included,—,Included – partial history (listed after 2021-01-04),Veralto,Industrials
+VRSN,Included,—,Passed all rules,Verisign,Information Technology
+VRSK,Included,—,Passed all rules,Verisk Analytics,Industrials
+VZ,Included,—,Passed all rules,Verizon,Communication Services
+VRTX,Included,—,Passed all rules,Vertex Pharmaceuticals,Health Care
+VRT,Included,—,Passed all rules,Vertiv,Industrials
+VTRS,Included,—,Passed all rules,Viatris,Health Care
+VICI,Included,—,Passed all rules,Vici Properties,Real Estate
+V,Included,—,Passed all rules,Visa Inc.,Financials
+VST,Included,—,Passed all rules,Vistra Corp.,Utilities
+VMRK,Included,—,Passed all rules,Vivmark Residential,Real Estate
+VMC,Included,—,Passed all rules,Vulcan Materials Company,Materials
+VYLR,Excluded,1.1,No Yahoo data 2021–2024,Vylor,Consumer Staples
+WRB,Included,—,Passed all rules,W. R. Berkley Corporation,Financials
+GWW,Included,—,Passed all rules,W. W. Grainger,Industrials
+WAB,Included,—,Passed all rules,Wabtec,Industrials
+WMT,Included,—,Passed all rules,Walmart,Consumer Staples
+DIS,Included,—,Passed all rules,Walt Disney Company (The),Communication Services
+WM,Included,—,Passed all rules,Waste Management,Industrials
+WAT,Included,—,Passed all rules,Waters Corporation,Health Care
+WEC,Included,—,Passed all rules,WEC Energy Group,Utilities
+WFC,Included,—,Passed all rules,Wells Fargo,Financials
+WELL,Included,—,Passed all rules,Welltower,Real Estate
+WST,Included,—,Passed all rules,West Pharmaceutical Services,Health Care
+WDC,Included,—,Passed all rules,Western Digital,Information Technology
+WY,Included,—,Passed all rules,Weyerhaeuser,Real Estate
+WSM,Included,—,Passed all rules,"Williams-Sonoma, Inc.",Consumer Discretionary
+WMB,Included,—,Passed all rules,Williams Companies,Energy
+WTW,Included,—,Passed all rules,Willis Towers Watson,Financials
+WDAY,Included,—,Passed all rules,"Workday, Inc.",Information Technology
+WYNN,Included,—,Passed all rules,Wynn Resorts,Consumer Discretionary
+XEL,Included,—,Passed all rules,Xcel Energy,Utilities
+XYL,Included,—,Passed all rules,Xylem Inc.,Industrials
+YUM,Included,—,Passed all rules,Yum! Brands,Consumer Discretionary
+ZBRA,Included,—,Passed all rules,Zebra Technologies,Information Technology
+ZBH,Included,—,Passed all rules,Zimmer Biomet,Health Care
+ZTS,Included,—,Passed all rules,Zoetis,Health Care
