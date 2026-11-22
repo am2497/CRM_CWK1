@@ -1,9 +1,0 @@
-Check,Result
-All week labels are Fridays,True
-Weekly return observations,207
-First / last week,2021-01-15 / 2024-12-27
-Incomplete weeks dropped,"[datetime.date(2025, 1, 3)]"
-Benchmark weeks with a return,207
-Share returns on weeks with no benchmark return,0
-Shares with internal missing weeks,0
-Missing prices filled,None (fill_method=None)
